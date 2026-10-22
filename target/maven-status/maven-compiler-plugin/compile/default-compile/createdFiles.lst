@@ -1,0 +1,6 @@
+com\example\computer\DiskDrive.class
+com\example\computer\HDD.class
+com\example\computer\Computer.class
+com\example\computer\Component.class
+com\example\computer\RAM.class
+com\example\computer\Main.class
